@@ -1,6 +1,12 @@
+<div align="center">
+
 # 小宇宙 MP3 导出工具
 
-> **Export Xiaoyuzhou audio as MP3 for devices that cannot play M4A.**
+**把「下载 + 转换」压成一次操作。**
+
+*Export Xiaoyuzhou audio as MP3 for devices that cannot play M4A.*
+
+</div>
 
 高驰 PACE 3 只能读取 MP3，而小宇宙提供的音频通常是 M4A。手动下载后再找转换网站，步骤多，也会把个人收听习惯暴露给第三方服务。
 
